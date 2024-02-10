@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adactin_Hotel_Playwright", "Adactin_Hotel_Playwright\Adactin_Hotel_Playwright.csproj", "{C0EE7B39-1501-4673-8815-5AABC66F04DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0EE7B39-1501-4673-8815-5AABC66F04DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EE7B39-1501-4673-8815-5AABC66F04DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EE7B39-1501-4673-8815-5AABC66F04DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EE7B39-1501-4673-8815-5AABC66F04DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A10873-8D50-468F-9586-CC6669458648}
+	EndGlobalSection
+EndGlobal
